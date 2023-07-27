@@ -1,0 +1,149 @@
+version 2
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 159 ciObject found
+instanceKlass jdk/internal/logger/LazyLoggers$LazyLoggerWrapper
+ciInstanceKlass java/lang/Cloneable 1 0 7 100 1 100 1 1 1
+instanceKlass  @bci sun/awt/windows/WToolkit windowsSettingChange ()V 39 <appendix> member <vmtarget> ; # sun/awt/windows/WToolkit$$Lambda$139+0x000001d1aecfcf10
+instanceKlass java/sql/Statement
+instanceKlass java/sql/Wrapper
+instanceKlass jdk/internal/module/ModulePatcher$PatchedModuleReader
+instanceKlass  @bci studentrecordsystem/Add actionPerformed (Ljava/awt/event/ActionEvent;)V 137 <adapter> ; # java/lang/invoke/LambdaForm$MH+0x000001d1aecc7800
+# instanceKlass java/lang/invoke/LambdaForm$DMH+0x000001d1aecc7400
+instanceKlass  @bci studentrecordsystem/Add actionPerformed (Ljava/awt/event/ActionEvent;)V 137 <appendix> form vmentry <vmtarget> ; # java/lang/invoke/LambdaForm$MH+0x000001d1aecc7000
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x000001d1aecc6c00
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x000001d1aecc6800
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x000001d1aecc6400
+instanceKlass  @bci studentrecordsystem/Add actionPerformed (Ljava/awt/event/ActionEvent;)V 137 <appendix> argL5 form vmentry <vmtarget> ; # java/lang/invoke/LambdaForm$MH+0x000001d1aecc6000
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x000001d1aecc5c00
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x000001d1aecc5800
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x000001d1aecc5400
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x000001d1aecc5000
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x000001d1aecc4c00
+instanceKlass  @bci studentrecordsystem/Add actionPerformed (Ljava/awt/event/ActionEvent;)V 137 <appendix> argL1 form vmentry <vmtarget> ; # java/lang/invoke/LambdaForm$MH+0x000001d1aecc4800
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x000001d1aecc4400
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x000001d1aecc4000
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x000001d1aecc3400
+instanceKlass java/lang/StackTraceElement$HashedModules
+instanceKlass java/lang/Throwable$PrintStreamOrWriter
+instanceKlass studentrecordsystem/connector
+instanceKlass java/awt/LightweightDispatcher$2
+instanceKlass studentrecordsystem/Home
+instanceKlass sun/awt/SunToolkit$1
+instanceKlass java/awt/KeyboardFocusManager$2
+instanceKlass java/awt/Toolkit$SelectiveAWTEventListener
+instanceKlass java/awt/LightweightDispatcher$1
+instanceKlass java/awt/Container$MouseEventTargetFilter
+instanceKlass java/awt/Container$EventTargetFilter
+instanceKlass java/awt/Cursor$CursorDisposer
+instanceKlass java/awt/event/MouseEvent$1
+instanceKlass sun/awt/AWTAccessor$MouseEventAccessor
+instanceKlass javax/swing/Timer$1
+instanceKlass java/time/Duration
+instanceKlass java/time/temporal/TemporalAmount
+instanceKlass java/time/temporal/TemporalUnit
+instanceKlass java/util/concurrent/TimeUnit$1
+instanceKlass javax/swing/TimerQueue$DelayedTimer
+instanceKlass java/util/concurrent/Delayed
+instanceKlass  @bci javax/swing/TimerQueue startIfNeeded ()V 33 <appendix> member <vmtarget> ; # javax/swing/TimerQueue$$Lambda$138+0x000001d1aecf7e58
+instanceKlass java/util/concurrent/BlockingQueue
+instanceKlass javax/swing/TimerQueue
+instanceKlass java/text/AttributedString$AttributedStringIterator
+instanceKlass java/text/AttributedCharacterIterator
+instanceKlass java/text/AttributedString
+instanceKlass sun/awt/im/CompositionAreaHandler
+instanceKlass javax/swing/text/JTextComponent$InputMethodRequestsHandler
+instanceKlass sun/util/locale/InternalLocaleBuilder$CaseInsensitiveChar
+instanceKlass sun/util/locale/InternalLocaleBuilder
+instanceKlass sun/util/locale/StringTokenIterator
+instanceKlass sun/util/locale/ParseStatus
+instanceKlass sun/util/locale/LanguageTag
+instanceKlass sun/awt/im/InputMethodAdapter
+instanceKlass java/awt/im/spi/InputMethod
+instanceKlass java/awt/im/spi/InputMethodContext
+instanceKlass java/awt/im/InputMethodRequests
+instanceKlass java/awt/im/InputContext
+instanceKlass java/awt/KeyboardFocusManager$3
+instanceKlass jdk/internal/foreign/MemorySessionImpl
+instanceKlass java/lang/foreign/SegmentAllocator
+instanceKlass java/lang/foreign/SegmentScope
+instanceKlass javax/swing/text/Utilities
+instanceKlass javax/swing/text/Segment
+instanceKlass java/text/CharacterIterator
+instanceKlass javax/swing/text/SegmentCache
+instanceKlass javax/swing/plaf/metal/MetalUtils
+instanceKlass sun/java2d/loops/FontInfo
+instanceKlass java/awt/PrintGraphics
+instanceKlass java/awt/print/PrinterGraphics
+instanceKlass sun/font/CMap
+instanceKlass sun/font/FontScaler
+instanceKlass sun/font/TrueTypeFont$DirectoryEntry
+instanceKlass java/nio/DirectByteBuffer$Deallocator
+instanceKlass sun/nio/ch/Util$BufferCache
+instanceKlass sun/nio/ch/Util
+instanceKlass sun/nio/ch/IOStatus
+instanceKlass sun/nio/ch/NativeThread
+instanceKlass java/nio/channels/spi/AbstractInterruptibleChannel$1
+instanceKlass sun/nio/ch/Interruptible
+instanceKlass sun/nio/ch/NativeThreadSet
+instanceKlass sun/nio/ch/IOUtil
+instanceKlass sun/nio/ch/NativeDispatcher
+instanceKlass java/nio/channels/spi/AbstractInterruptibleChannel
+instanceKlass java/nio/channels/InterruptibleChannel
+instanceKlass java/nio/channels/ScatteringByteChannel
+instanceKlass java/nio/channels/GatheringByteChannel
+instanceKlass java/nio/channels/SeekableByteChannel
+instanceKlass java/nio/channels/ByteChannel
+instanceKlass java/nio/channels/WritableByteChannel
+instanceKlass java/nio/channels/ReadableByteChannel
+instanceKlass java/nio/channels/Channel
+instanceKlass java/io/RandomAccessFile$2
+instanceKlass jdk/internal/access/JavaIORandomAccessFileAccess
+instanceKlass java/io/RandomAccessFile
+instanceKlass java/io/DataOutput
+instanceKlass sun/font/TrueTypeFont$1
+instanceKlass sun/font/TrueTypeFont$TTDisposerRecord
+instanceKlass sun/font/StrikeCache$DisposableStrike
+instanceKlass sun/font/FontStrikeDisposer
+instanceKlass sun/java2d/Disposer$PollDisposable
+instanceKlass sun/font/FontStrikeDesc
+instanceKlass sun/font/FontDesignMetrics$MetricsKey
+instanceKlass java/awt/FontMetrics
+instanceKlass sun/swing/SwingUtilities2$KeyPair
+instanceKlass sun/awt/image/BufImgSurfaceData$ICMColorData
+instanceKlass java/awt/image/BufferedImage$1
+instanceKlass java/awt/image/WritableRenderedImage
+instanceKlass java/awt/image/RenderedImage
+instanceKlass sun/awt/image/NativeLibLoader$1
+instanceKlass sun/awt/image/NativeLibLoader
+instanceKlass java/awt/image/SampleModel
+instanceKlass java/awt/image/DataBuffer$1
+instanceKlass sun/awt/image/SunWritableRaster$DataStealer
+instanceKlass java/awt/image/DataBuffer
+instanceKlass java/awt/image/Raster
+instanceKlass sun/java2d/opengl/OGLGraphicsConfig
+instanceKlass sun/awt/SunGraphicsCallback
+instanceKlass sun/java2d/pipe/hw/AccelSurface
+instanceKlass javax/swing/RepaintManager$4
+instanceKlass java/awt/KeyboardFocusManager$LightweightFocusRequest
+instanceKlass java/awt/DefaultKeyboardFocusManager$TypeAheadMarker
+instanceKlass java/awt/KeyboardFocusManager$HeavyweightFocusRequest
+instanceKlass sun/awt/KeyboardFocusManagerPeerImpl$KfmAccessor
+instanceKlass sun/awt/GlobalCursorManager$NativeUpdater
+instanceKlass sun/awt/GlobalCursorManager
+instanceKlass javax/swing/RepaintManager$2$1
+instanceKlass java/util/LinkedList$ListItr
+instanceKlass java/awt/TrayIcon
+instanceKlass java/awt/MenuComponent
+instanceKlass java/awt/SplashScreen
+instanceKlass java/lang/invoke/VarHandle$AccessDescriptor
+instanceKlass sun/awt/NullComponentPeer
+instanceKlass sun/awt/LightweightPeerHolder
+instanceKlass java/awt/peer/LightweightPeer
+instanceKlass sun/awt/im/ExecutableInputMethodManager$3
+instanceKlass sun/awt/im/InputMethodLocator
+instanceKlass sun/awt/windows/WInputMethodDescriptor
+instanceKlass java/awt/im/spi/InputMethodDescriptor
+instanceKlass sun/awt/im/InputMethodManager
+instanceKlass  @bci sun/awt/windows/WToolkit getFontPeer (Ljava/lang/String;I)Ljava/awt/peer/FontPeer; 94 <appendix> form vmentry <vmtarget> ; # java/lang/invoke/LambdaForm$MH+0x000001d1aecc3000
